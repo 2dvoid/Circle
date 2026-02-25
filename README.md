@@ -6,7 +6,7 @@ Somewhere along the way, social media stopped being about our actual lives. It b
 
 **Circle is the exit door.**
 
-We are building this platform to be ***real life first***. It is a digital extension of your actual friendships, stripped of the noise. There are no algorithmic feeds. There are no 'Suggested Friends.' There are no ads, no monetization tricks, and no viral content. 
+We are building a platform to be ***Real life first***. It is a digital extension of your actual friendships, stripped of the noise. There are no algorithmic feeds. There are no 'Suggested Friends.' There are no ads, no monetization tricks, and no viral content. 
 
 To connect with someone on Circle, you have to actually know them in real life to get their unique profile code. It is an invite-only space for the people who actually matter. No followers, just friends. 
 
