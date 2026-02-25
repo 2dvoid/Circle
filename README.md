@@ -14,15 +14,6 @@ Welcome back to your real circle.
 
 ---
 
-### 💡 The Philosophy
-
-Modern platforms are designed to maximize screen time. This is designed to maximize intentional connection. We operate on a strict "Anti-Network" model:
-
-* **Zero Algorithms:** Chronological feeds only. Nothing is buried, nothing is boosted.
-* **Zero Suggestions:** We will never scrape your contacts or recommend "People You May Know."
-* **Zero Metrics:** No follower counts, no public like tallies.
-* **Zero Ads:** No tracking, no data selling, no monetization of your attention.
-
 ### 🔐 How Connection Works
 
 Friction is our favorite feature. You cannot search for a user by their name. 
